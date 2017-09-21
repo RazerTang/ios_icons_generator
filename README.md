@@ -1,5 +1,5 @@
 # ios_icons_generator
-use sips tools generate different size of AppIcon.
+# use sips tool to generate different size of AppIcon.
 
 #Usage
 ```
